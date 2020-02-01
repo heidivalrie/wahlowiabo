@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://webaighoxa.imsql.com/sitemap.xml
